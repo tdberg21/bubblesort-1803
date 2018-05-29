@@ -1,0 +1,27 @@
+{
+  "name": "@tdberg21/bubblesort-1803",
+  "version": "1.0.0",
+  "description": "Shred it",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdberg21/bubblesort-1803.git"
+  },
+  "author": "Tory Dannenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdberg21/bubblesort-1803/issues"
+  },
+  "homepage": "https://github.com/tdberg21/bubblesort-1803#readme"
+}
